@@ -1,6 +1,7 @@
 # this is a repo demo to implementing svg-in-png package
 
-to use:
+## [demo](https://josermarinr.github.io/demo-export-svg/)
+# to use:
 
 clone this repo,
 
